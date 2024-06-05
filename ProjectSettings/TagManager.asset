@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Death
+  - Score
   layers:
   - Default
   - TransparentFX
@@ -40,4 +42,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: 0
+    uniqueID: 2195562699
+    locked: 0
+  - name: 1
+    uniqueID: 3667628045
+    locked: 0
+  - name: 2
+    uniqueID: 2717777917
+    locked: 0
+  - name: 3
+    uniqueID: 2544725345
+    locked: 0
+  - name: 4
+    uniqueID: 2709012987
     locked: 0
